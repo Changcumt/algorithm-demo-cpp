@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    mergeSort();
+    heapSort();
     
     return 0;
 }

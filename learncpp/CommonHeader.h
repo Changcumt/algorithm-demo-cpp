@@ -14,6 +14,7 @@ extern void tt();
 //第2章
 extern void insertionSort();
 extern void mergeSort();
+extern void heapSort();
 
 #endif /* CommonHeader_h */
 

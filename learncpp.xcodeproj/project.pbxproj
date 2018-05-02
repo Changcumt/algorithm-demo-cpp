@@ -12,6 +12,7 @@
 		F1F79E5B2097DBB200B9E88B /* insertionSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F1F79E5A2097DBB200B9E88B /* insertionSort.cpp */; };
 		F1F79E5D2097F04900B9E88B /* mergeSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F1F79E5C2097F04900B9E88B /* mergeSort.cpp */; };
 		F1F79E5F2099289D00B9E88B /* heapSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F1F79E5E2099289D00B9E88B /* heapSort.cpp */; };
+		F1F79E61209A782900B9E88B /* quickSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F1F79E60209A782900B9E88B /* quickSort.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,7 @@
 		F1F79E5A2097DBB200B9E88B /* insertionSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = insertionSort.cpp; sourceTree = "<group>"; };
 		F1F79E5C2097F04900B9E88B /* mergeSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mergeSort.cpp; sourceTree = "<group>"; };
 		F1F79E5E2099289D00B9E88B /* heapSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = heapSort.cpp; sourceTree = "<group>"; };
+		F1F79E60209A782900B9E88B /* quickSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = quickSort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				F1F79E5A2097DBB200B9E88B /* insertionSort.cpp */,
 				F1F79E5C2097F04900B9E88B /* mergeSort.cpp */,
 				F1F79E5E2099289D00B9E88B /* heapSort.cpp */,
+				F1F79E60209A782900B9E88B /* quickSort.cpp */,
 			);
 			path = learncpp;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 				F1F79E5020954CA300B9E88B /* main.cpp in Sources */,
 				F1F79E5D2097F04900B9E88B /* mergeSort.cpp in Sources */,
 				F1F79E5B2097DBB200B9E88B /* insertionSort.cpp in Sources */,
+				F1F79E61209A782900B9E88B /* quickSort.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -15,6 +15,7 @@ extern void tt();
 extern void insertionSort();
 extern void mergeSort();
 extern void heapSort();
+extern void quickSort();
 
 #endif /* CommonHeader_h */
 

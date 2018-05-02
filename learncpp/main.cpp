@@ -15,7 +15,10 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    heapSort();
+//    堆排序
+    //heapSort();
+//    快速排序
+    quickSort();
     
     return 0;
 }

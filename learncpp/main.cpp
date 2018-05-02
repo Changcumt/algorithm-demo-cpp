@@ -18,7 +18,9 @@ int main(int argc, const char * argv[]) {
 //    堆排序
     //heapSort();
 //    快速排序
-    quickSort();
+//    quickSort();
+//    计数排序
+    countSort();
     
     return 0;
 }
